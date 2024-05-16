@@ -1,2 +1,9 @@
-<h1>My First GitHub Excperience</h1>
-<p>Will see what I'll be able to create here</p>
+# My data science projects
+From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
+
+<h2>Проекты</h2>
+
+• [Проект 0. Угадай число](https://github.com/ElenaEckert/first-project)<br>
+• [Проект 1.______________]()<br>
+• [Проект 2.______________]()<br>
+
