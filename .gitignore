@@ -1,3 +1,6 @@
+# Игнорировать файл Копия блокнота _baseline.ipynb
+Project_1/Копия блокнота _baseline.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
