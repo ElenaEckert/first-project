@@ -3,7 +3,7 @@
 
 <ol>
   <li><a href="https://github.com/ElenaEckert/first-project/blob/main/Project_0/readme.md#Описание проекта">Описание проекта</a></li>
-  <li><a href="https://www.w3schools.com/">Какой кейс решаем</a></li>
+  <li><a href="https://github.com/ElenaEckert/first-project/blob/main/Project_0/readme.md#Какой кейс решаем?">Какой кейс решаем</a></li>
   <li><a href="https://www.w3schools.com/">Краткая информация о данных</a></li>
   <li><a href="https://www.w3schools.com/">Этапы работы над проектом</a></li>
   <li><a href="https://www.w3schools.com/">Результат</a></li>
@@ -15,7 +15,8 @@
 <p>Угадать заданное компьютером число за минимальное число попыток</p>
 <a href="https://github.com/ElenaEckert/first-project/blob/main/Project_0/readme.md#Оглавление">
 <strong>:arrow_up: К оглавлению</strong></a>
-<h3>Какой кейс решаем?</h3>
+
+<h3> Какой кейс решаем? </h3>
 <p>Нужно написать программу, которая угадывает число за минимальное число попыток.</p>
 
 **Условие соревнования**
