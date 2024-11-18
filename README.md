@@ -5,5 +5,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 • [Проект 0. Угадай число](Project_0)<br>
 • [Проект 1. PYTHON-8. Инструменты для Data Science](Project_1)<br>
-• [Проект 2.             ]()<br>
+
 
